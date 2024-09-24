@@ -1,3 +1,3 @@
-# Basic setup for vue 3 project with tailwind
+# Build an accordion component in Vue 3
 
-# start ` npm run dev`
+### start ` npm run dev`
